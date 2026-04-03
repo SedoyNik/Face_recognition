@@ -9,17 +9,17 @@
 – Добавлена функция выбора гиперпараметров для каждой модели внутри GUI-интерфейса
 
 ## Использованные библиотеки
-capture-devices==4.2
-customtkinter==5.2.2
-darkdetect==0.8.0
-joblib==1.5.3
-numpy==2.4.4
-opencv-python==4.13.0.92
-packaging==26.0
-pillow==12.2.0
-scikit-learn==1.8.0
-scipy==1.17.1
-threadpoolctl==3.6.0
+- capture-devices==4.2
+- customtkinter==5.2.2
+- darkdetect==0.8.0
+- joblib==1.5.3
+- numpy==2.4.4
+- opencv-python==4.13.0.92
+- packaging==26.0
+- pillow==12.2.0
+- scikit-learn==1.8.0
+- scipy==1.17.1
+- threadpoolctl==3.6.0
 
 
 Наилучший результат показала модель SVM
